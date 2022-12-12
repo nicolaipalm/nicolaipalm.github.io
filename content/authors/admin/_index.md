@@ -27,7 +27,6 @@ bio: My research interests include uncertainty quantification, and
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
