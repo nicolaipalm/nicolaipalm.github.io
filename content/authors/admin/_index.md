@@ -22,7 +22,7 @@ organizations:
     url: https://mcml.ai
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include uncertainty quantification, 
+bio: My research interests include uncertainty quantification, and 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
