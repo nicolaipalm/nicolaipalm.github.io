@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A short introduction of Nico Palm.'
+    description: 'Hi I am Nico Palm.'
     twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google611738ce5d0365e6.html'
     baidu: ''
 
 # Site header

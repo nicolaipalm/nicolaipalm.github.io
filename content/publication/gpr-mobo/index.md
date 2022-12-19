@@ -8,7 +8,7 @@ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-10-07T00:00:00Z"
-doi: "10.1109/ACCESS.2022.3216364"
+doi: "10.3390/su141912777"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MDPI"
+publication: "Sustainability"
 publication_short: ""
 
 abstract: Within a disruptively changing environment, design of power systems becomes a complex task. Meeting multi-criteria requirements with increasing degrees of freedom in design and simultaneously decreasing technical expertise strengthens the need for multi-objective optimization (MOO) making use of algorithms and virtual prototyping. In this context, we present Gaussian Process Regression based Multi-Objective Bayesian Optimization (GPR-MOBO) with special emphasis on its profound theoretical background. A detailed mathematical framework is provided to derive a GPR-MOBO computer implementable algorithm. We quantify GPR-MOBO effectiveness and efficiency by hypervolume and the number of required computationally expensive simulations to identify Pareto-optimal design solutions, respectively. For validation purposes, we benchmark our GPR-MOBO implementation based on a mathematical test function with analytically known Pareto front and compare results to those of well-known algorithms NSGA-II and pure Latin Hyper Cube Sampling. To rule out effects of randomness, we include statistical evaluations. GPR-MOBO turnes out as an effective and efficient approach with superior character versus state-of-the art approaches and increasing value-add when simulations are computationally expensive and the number of design degrees of freedom is high. Finally, we provide an example of GPR-MOBO based power system design and optimization that demonstrates both the methodology itself and its performance benefits.
