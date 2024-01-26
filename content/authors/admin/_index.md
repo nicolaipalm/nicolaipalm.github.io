@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Candidate in Computational Statistics & Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,11 +22,9 @@ organizations:
     url: https://mcml.ai
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include uncertainty quantification, and 
-# Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
+bio: ''
+
+interests:
 
 # Education to show in About widget
 education:
@@ -68,8 +66,11 @@ email: 'nicolai.palm@stat.uni-muenchen.de'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi I'm Nico Palm. I am a mathematician and currently pursuing my PhD in Computational Statistics & Data Science at the [Munich Center for Machine learning](https://mcml.ai) (LMU) under the supervision of [Thomas Nagler](https://tnagler.github.io).
-Before that I worked for a couple of startups in the broad field of data science and machine learning. 
-I am currently interested in uncertainty quantification of machine learning models, multi-objective optimization, and optimal experimental design. 
-I have applied the latter to several projects, including power system modeling, battery aging, steering system reapplication, and dynamic pricing.
+Hi I'm Nico Palm. I am a mathematician and currently pursuing my PhD
+at the [Munich Center for Machine learning](https://mcml.ai) (LMU) 
+under the supervision of [Thomas Nagler](https://tnagler.github.io).
+Before that I worked for a couple of startups in the broad field of data analysis and machine learning.
+I specialize in the intersection of machine learning and statistics/mathematics: 
+I develop statistical/mathematical methods that meet the requirements of modern data science, 
+explore and prove their theoretical properties and package them in user-friendly software.
 {style="text-align: justify;"}

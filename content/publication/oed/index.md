@@ -30,7 +30,7 @@ abstract: Parametric models allow to reflect system behavior in general and char
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
