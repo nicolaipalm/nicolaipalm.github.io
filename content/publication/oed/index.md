@@ -29,7 +29,7 @@ abstract: Parametric models allow to reflect system behavior in general and char
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Statistics (Application)
 featured: false
 
 # links:

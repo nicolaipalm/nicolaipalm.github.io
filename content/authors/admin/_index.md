@@ -40,10 +40,10 @@ profiles:
   #   url: https://orcid.org/0000-0002-8189-5605
 
 interests:
-  - Theoretical Statistics
-  - Uncertainty Quantification in ML
-  - Category Theory Approaches in ML
+  - Mathematical Statistics
+  - UQ in ML
   - Multi-Objective Optimization  
+  - Category Theory Approaches in ML
 
 
 education:

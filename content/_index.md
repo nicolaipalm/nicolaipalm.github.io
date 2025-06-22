@@ -41,10 +41,9 @@ sections:
 
         I am also interested in:
 
-        - The broad area of uncertainty quantification for ML models, mainly from a frequentist perspective
+        - The broad area of uncertainty quantification for ML models
         - Category theory in ML 
         - Multi-objective optimization especially in the context of expensive blackbox functions (e.g. simulation or digital twin models)
-        - Applying all this to real scenarios
 
         Feel free to reach out!
     design:
@@ -60,16 +59,16 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: article-grid
   # - block: collection
   #   id: talks
   #   content:

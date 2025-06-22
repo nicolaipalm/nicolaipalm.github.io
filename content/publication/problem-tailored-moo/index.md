@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["Preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(Preprint)"
+publication: ""
 publication_short: ""
 
 abstract: "Multi criteria decision making requires knowledge about trade-offs between conflicting targets. Multi-objective optimization (MOO) strives to provide this information in terms of the set of Pareto-optimal solutions. From an application point of view, a taxonomic scheme for selecting or constructing appropriate MOO algorithms under the constraint of individually selectable solution attributes for a given black box problem is of outstanding benefit. In this context, we introduce a mathematical framework to construct MOO algorithms tailored to individual needs. The approach is based on the composition of black box functions with tailor-made support functions. The composition must exhibit a basic property, which we call Pareto reflective, to preserve Pareto points when support functions are concatenated with a black box function. Mathematically, we prove some of the support functions’ fundamental structures and, thereby, class inducing invarianceproperties. This theoretical base, in turn, allows to derive a rigid set of construction rules. The related methodology bears two major advantages: It allows to classify and tailor MOO algorithms according to desired Pareto-front search attributes and, secondly, enables to significantly expand an MOO algorithm’s applicability area. Together with the mathematical framework we provide a git repository for the newly proposed methodology containing source code plus a variety of MOO operations and algorithms that cover a broad range of examples."
@@ -27,7 +27,7 @@ abstract: "Multi criteria decision making requires knowledge about trade-offs be
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Multi-objective optimization (Theory)
 featured: False
 
 # links:

@@ -29,7 +29,7 @@ abstract: Within a disruptively changing environment, design of power systems be
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Multi-objective optimization (Application)
 featured: false
 
 # links:
